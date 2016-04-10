@@ -194,7 +194,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/oneplus/bacon/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
     vendor/oneplus/bacon/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf \
-    vendor/oneplus/bacon/proprietary/vendor/lib/libchromatix_ov5648_zsl_fb.so:system/vendor/lib/libchromatix_ov5648_zsl_fb.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libMA3-wavesfx-Coretex_A9.so:system/vendor/lib/libMA3-wavesfx-Coretex_A9.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libMA3-wavesfx-Qualcomm.so:system/vendor/lib/libMA3-wavesfx-Qualcomm.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libgnustl_shared.so:system/vendor/lib/libgnustl_shared.so \
