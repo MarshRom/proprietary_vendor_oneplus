@@ -199,7 +199,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/vendor/lib/soundfx/libmaxxeffect-cembedded.so:system/vendor/lib/soundfx/libmaxxeffect-cembedded.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libAKM8963.so:system/vendor/lib/libAKM8963.so \
     vendor/oneplus/bacon/proprietary/vendor/bundled-app/Cortana/Cortana.apk:system/vendor/bundled-app/Cortana/Cortana.apk \
-    vendor/oneplus/bacon/proprietary/vendor/lib/hw/camera.bacon.so:vendor/lib/hw/camera.bacon.so \
+    vendor/oneplus/bacon/proprietary/vendor/lib/hw/camera.bacon.so:system/vendor/lib/hw/camera.bacon.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/hw/power.msm8974.so:system/vendor/lib/hw/power.msm8974.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/liblistenhardware.so:system/vendor/lib/liblistenhardware.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libswresample.so:system/vendor/lib/libswresample.so \
